@@ -1,4 +1,4 @@
-# SML
+# SML_NEO Competition 2021
 
 Small_Movements_of_Logic (SML) NAO Project
 
